@@ -2,8 +2,11 @@
 
 An end-to-end Deep Reinforcement Learning project training an autonomous agent to play **Super Mario Bros (NES)** using **Proximal Policy Optimization (PPO)** and an Actor-Critic Convolutional Neural Network (`CnnPolicy`).
 
-![Super Mario Bros RL Gameplay](mario_gameplay.gif)
-*(Replace this placeholder with a GIF generated from your screen recording or video output)*
+
+
+https://github.com/user-attachments/assets/a1edd785-1c44-4dca-9e3f-9a7e336b353e
+
+
 
 ---
 
