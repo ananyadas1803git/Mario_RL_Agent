@@ -1,4 +1,4 @@
-# 🍄 Autonomous Super Mario Bros Agent (Deep Reinforcement Learning)
+# 🍄 Super Mario Bros Agent (Reinforcement Learning Model)
 
 An end-to-end Deep Reinforcement Learning project training an autonomous agent to play **Super Mario Bros (NES)** using **Proximal Policy Optimization (PPO)** and an Actor-Critic Convolutional Neural Network (`CnnPolicy`).
 
